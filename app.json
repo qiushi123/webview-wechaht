@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/webview/webview",
+    "pages/wePay/wePay"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
